@@ -1,6 +1,6 @@
-# WSL2 Docker Installation Script
+# WSL Docker Installation Script
 
-This is a bash script that installs Docker in WSL2. 
+This is a bash script that installs Docker in WSL. 
 
 ## Usage
 
@@ -10,7 +10,7 @@ This is a bash script that installs Docker in WSL2.
 
 ## Requirements
 
-This script is intended for use on a WSL2 environment running Ubuntu 20.04 LTS or later.
+This script is intended for use on a WSL environment running Ubuntu 20.04 LTS or later.
 
 
 ## License
